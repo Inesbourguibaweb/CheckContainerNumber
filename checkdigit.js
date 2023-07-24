@@ -3,7 +3,7 @@ CHECK CONTAINER NUMBER
  */
 
 /** an object contains all letters and their values */
-
+console.log("test2");
 object = {
   A: 10,
   B: 12,
